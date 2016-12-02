@@ -1,6 +1,6 @@
 ## デプロイ情報
 #### サービスURL
-{http://yamachucodechatbot.azurewebsites.net/}
+{http://169.44.126.152/Chat}
 
 #### リポジトリURL
 解答のリポジトリ
@@ -16,7 +16,7 @@
 - ASP .NET Core / React
 
 ####  ホスティングサービス
-- Azure
+- Bluemix
 
 ## 独自コマンドの実装
 #### 追加したコマンド
